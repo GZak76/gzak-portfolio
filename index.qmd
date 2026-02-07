@@ -2,29 +2,47 @@
 title: ""
 page-layout: full
 toc: false
-editor: 
-  markdown: 
-    wrap: 72
 ---
 
-:::::: {style="display:flex; align-items:center; gap:3rem; margin-top:4rem;"}
-:::: {style="flex:1;"}
+:::::: {style="display:flex; flex-wrap:wrap; align-items:center; gap:3rem; margin-top:4rem;"}
+:::: {style="flex:1; min-width:280px;"}
 ## Hi, I’m Grzegorz
 
-**Data Analyst** focused on: - time series forecasting, - survey and
-demographic data analysis, - turning data into business insights.
+**Data Analyst** with a strong interest in: - time series forecasting, - survey and demographic data analysis, - turning data into clear, actionable insights.
 
-I work with **R, Excel, Power BI** and enjoy projects where data helps
-understand reality and predict future trends.
+I work mainly with **R, Excel, and Power BI** and enjoy projects where data helps understand real-world phenomena and predict future trends.
 
 ::: {style="margin-top:2rem;"}
-<a href="projects/" class="btn btn-primary btn-lg">View projects</a>
-<a href="about.html" class="btn btn-outline-secondary btn-lg" style="margin-left:1rem;">About
-me</a>
+<a href="projects/" class="btn btn-primary btn-lg">View projects</a> <a href="about.html" class="btn btn-outline-secondary btn-lg" style="margin-left:1rem;">About me</a>
 :::
 ::::
 
-::: {style="flex:1; text-align:center;"}
-<img src="assets/logo_1.png" style="max-width:300px;"/>
+::: {style="flex:1; min-width:280px; text-align:center;"}
+<img src="assets/logo_1.png" style="max-width:320px;"/>
 :::
 ::::::
+
+------------------------------------------------------------------------
+
+## Featured projects
+
+Here are a few selected projects that best represent my work and interests.
+
+### 📈 Sales analysis – case study
+
+Analysis of sales data with a focus on structure, trends, and profitability.\
+👉 [View project](projects/analiza-sprzedazy.html)
+
+### 📊 Survey data analysis
+
+Exploratory and statistical analysis of survey data, including interpretation of ordinal scales and group comparisons.\
+👉 *(project coming soon)*
+
+### 🔮 Time series forecasting
+
+Forecasting sales or demand using classical time series methods (ARIMA, ETS) and model comparison.\
+👉 *(project coming soon)*
+
+::: {style="margin-top:2rem;"}
+<a href="projects/" class="btn btn-outline-primary btn-lg">View all projects</a>
+:::
