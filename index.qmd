@@ -25,6 +25,6 @@ me</a>
 ::::
 
 ::: {style="flex:1; text-align:center;"}
-<img src="assets/logo.png" style="max-width:300px;"/>
+<img src="assets/logo_1.png" style="max-width:300px;"/>
 :::
 ::::::
