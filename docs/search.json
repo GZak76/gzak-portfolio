@@ -9,16 +9,23 @@
   {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
-    "title": "GZak – Data Analyst",
+    "title": "",
     "section": "",
     "text": "title: Blog listing: contents: - “*.qmd” sort: “date desc”"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "GZak – Data Analyst",
+    "title": "",
     "section": "",
-    "text": "Witaj na mojej stronie\nTo jest moja strona zbudowana w Quarto."
+    "text": "Data Analyst focused on: - time series forecasting, - survey and demographic data analysis, - turning data into business insights.\nI work with R, Excel, Power BI and enjoy projects where data helps understand reality and predict future trends.\n\nView projects About me"
+  },
+  {
+    "objectID": "index.html#hi-im-grzegorz",
+    "href": "index.html#hi-im-grzegorz",
+    "title": "",
+    "section": "",
+    "text": "Data Analyst focused on: - time series forecasting, - survey and demographic data analysis, - turning data into business insights.\nI work with R, Excel, Power BI and enjoy projects where data helps understand reality and predict future trends.\n\nView projects About me"
   },
   {
     "objectID": "about.html",

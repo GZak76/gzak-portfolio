@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "GZak – Data Analyst"
+
   navbar:
+    logo: assets/logo.png
+    title: "GZak – Data Analyst"
     left:
       - text: "Start"
         href: index.qmd

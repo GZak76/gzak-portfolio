@@ -1,7 +1,30 @@
 ---
-title: "GZak – Data Analyst"
-format: html
+title: ""
+page-layout: full
+toc: false
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-# Witaj na mojej stronie
-To jest moja strona zbudowana w Quarto.
+:::::: {style="display:flex; align-items:center; gap:3rem; margin-top:4rem;"}
+:::: {style="flex:1;"}
+## Hi, I’m Grzegorz
+
+**Data Analyst** focused on: - time series forecasting, - survey and
+demographic data analysis, - turning data into business insights.
+
+I work with **R, Excel, Power BI** and enjoy projects where data helps
+understand reality and predict future trends.
+
+::: {style="margin-top:2rem;"}
+<a href="projects/" class="btn btn-primary btn-lg">View projects</a>
+<a href="about.html" class="btn btn-outline-secondary btn-lg" style="margin-left:1rem;">About
+me</a>
+:::
+::::
+
+::: {style="flex:1; text-align:center;"}
+<img src="assets/logo.png" style="max-width:300px;"/>
+:::
+::::::
