@@ -1,0 +1,12 @@
+---
+title: "Analizy"
+listing:
+  contents: .      # bierz wszystkie wpisy z bieżącego folderu
+  sort: "date desc"
+  type: default    # prosta lista (możesz zmienić na 'grid' / 'table')
+  categories: true
+---
+
+# Analizy
+
+Poniżej lista opublikowanych wpisów.

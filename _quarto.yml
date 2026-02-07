@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+
+website:
+  title: "GZak – Data Analyst"
+  navbar:
+    left:
+      - text: "Start"
+        href: index.qmd
+      - text: "Analizy"
+        href: posts/
+      - text: "Dashboardy"
+        href: dashboards.qmd
+      - text: "O mnie"
+        href: about.qmd
+    right:
+
+      - icon: github
+        href: https://github.com/GZak76
+      - icon: linkedin
+        href: https://www.linkedin.com/in/grzegorz-%C5%BCak-58176b3ab/
+
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-copy: true
+
+lang: pl
+
+collections:
+  posts:
+    categories: true
+    sort: "date desc"
+
+preview:
+  port: 4200
+

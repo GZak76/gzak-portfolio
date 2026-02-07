@@ -1,0 +1,7 @@
+---
+title: "GZak – Data Analyst"
+format: html
+---
+
+# Witaj na mojej stronie
+To jest moja strona zbudowana w Quarto.

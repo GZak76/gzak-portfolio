@@ -1,0 +1,10 @@
+---
+title: "O mnie"
+---
+
+# O mnie
+
+Cześć! Tu **GZak** – Data Analyst.  
+Na tej stronie publikuję analizy w **R** i osadzam dashboardy **Power BI**.
+
+- LinkedIn: [mój profil](https://www.linkedin.com/in/grzegorz-%C5%BCak-58176b3ab/)

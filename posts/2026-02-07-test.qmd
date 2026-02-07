@@ -1,0 +1,8 @@
+---
+title: "Pierwsza analiza"
+date: "2026-02-07"
+categories: [R, test]
+---
+
+# Test Analizy
+To jest wpis testowy. Jeśli go widzisz pod `/posts/`, to znaczy, że kolekcja działa.
