@@ -1,8 +1,10 @@
 [
   {
+    "listing": "/projects/index.html",
+    "items": []
+  },
+  {
     "listing": "/posts/index.html",
-    "items": [
-      "/posts/2026-02-07-test.html"
-    ]
+    "items": []
   }
 ]

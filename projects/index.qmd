@@ -1,0 +1,8 @@
+---
+title: Projekty
+listing:
+  contents: projects
+  sort: title
+  fields: [title, description]
+  type: grid
+---

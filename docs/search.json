@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Analizy",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projekty",
     "section": "",
-    "text": "Analizy\nPoniżej lista opublikowanych wpisów.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPierwsza analiza\n\n\n\nR\n\ntest\n\n\n\n\n\n\n\n\n\n7 lut 2026\n\n\n\n\n\nBrak pasujących"
+    "text": "Brak pasujących"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GZak – Data Analyst",
+    "objectID": "posts/2026-02-07-test.html",
+    "href": "posts/2026-02-07-test.html",
+    "title": "Pierwsza analiza",
     "section": "",
-    "text": "Witaj na mojej stronie\nTo jest moja strona zbudowana w Quarto."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "O mnie",
-    "section": "",
-    "text": "O mnie\nCześć! Tu GZak – Data Analyst.\nNa tej stronie publikuję analizy w R i osadzam dashboardy Power BI.\n\nLinkedIn: mój profil"
+    "text": "Test Analizy\nTo jest wpis testowy. Jeśli go widzisz pod /posts/, to znaczy, że kolekcja działa."
   },
   {
     "objectID": "dashboards.html",
@@ -35,10 +28,24 @@
     "text": "&lt;iframe title=“Przykładowy Power BI” width=“100%” height=“100%” src=“https://app.powerbi.com/view?r=TU_WKLEJ_PUBLICZNY_LINK_Z_PUBLISH_TO_WEB” frame"
   },
   {
-    "objectID": "posts/2026-02-07-test.html",
-    "href": "posts/2026-02-07-test.html",
-    "title": "Pierwsza analiza",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "O mnie",
     "section": "",
-    "text": "Test Analizy\nTo jest wpis testowy. Jeśli go widzisz pod /posts/, to znaczy, że kolekcja działa."
+    "text": "O mnie\nCześć! Tu GZak – Data Analyst.\nNa tej stronie publikuję analizy w R i osadzam dashboardy Power BI.\n\nLinkedIn: mój profil"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GZak – Data Analyst",
+    "section": "",
+    "text": "Witaj na mojej stronie\nTo jest moja strona zbudowana w Quarto."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Analiza struktury sprzedaży – przykład",
+    "section": "",
+    "text": "Blog\n\n\n\n\n\n\n\n\n\nBrak pasujących"
   }
 ]

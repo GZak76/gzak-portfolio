@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-01-12">
+<meta name="description" content="Krótka analiza struktury sprzedaży z wykorzystaniem ggplot2">
 
-<title>Analizy – GZak – Data Analyst</title>
+<title>Analiza struktury sprzedaży – przykład – GZak – Data Analyst</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -84,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -321,8 +323,12 @@ window.Quarto = {
 <span class="menu-text">Start</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="../projects/"> 
+<span class="menu-text">Projekty</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../posts/"> 
-<span class="menu-text">Analizy</span></a>
+<span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../dashboards.html"> 
@@ -361,24 +367,39 @@ window.Quarto = {
     <h2 id="toc-title">Na tej stronie</h2>
    
   <ul>
-  <li><a href="#analizy" id="toc-analizy" class="nav-link active" data-scroll-target="#analizy">Analizy</a></li>
+  <li><a href="#blog" id="toc-blog" class="nav-link active" data-scroll-target="#blog">Blog</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Kategorie</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Wszystkie <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGVzdA==">test <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Kategorie</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Wszystkie <span class="quarto-category-count">(0)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Analizy</h1>
-</div>
+<h1 class="title">Analiza struktury sprzedaży – przykład</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">analiza danych</div>
+  </div>
+  </div>
 
+<div>
+  <div class="description">
+    Krótka analiza struktury sprzedaży z wykorzystaniem ggplot2
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Opublikowano</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2025-01-12</p>
+    </div>
+  </div>
   
     
   </div>
@@ -388,9 +409,8 @@ window.Quarto = {
 </header>
 
 
-<section id="analizy" class="level1">
-<h1>Analizy</h1>
-<p>Poniżej lista opublikowanych wpisów.</p>
+<section id="blog" class="level1">
+<h1>Blog</h1>
 
 
 
@@ -398,35 +418,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UiUyQ3Rlc3Q=" data-listing-date-sort="1770418800000" data-listing-file-modified-sort="1770476577765" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<div class="thumbnail"><a href="../posts/2026-02-07-test.html" class="no-external">
 
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../posts/2026-02-07-test.html" class="no-external">Pierwsza analiza</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('dGVzdA=='); return false;">test</div>
-
-</div>
-<div class="delink listing-description"><a href="../posts/2026-02-07-test.html" class="no-external">
-To jest wpis testowy. Jeśli go widzisz pod <code>/posts/</code>, to znaczy, że kolekcja działa.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../posts/2026-02-07-test.html" class="no-external">
-<div class="listing-date">
-7 lut 2026
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">Brak pasujących</div>
 </div></main> <!-- /main -->

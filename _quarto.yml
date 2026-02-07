@@ -2,21 +2,21 @@ project:
   type: website
   output-dir: docs
 
-
 website:
   title: "GZak – Data Analyst"
   navbar:
     left:
       - text: "Start"
         href: index.qmd
-      - text: "Analizy"
+      - text: "Projekty"
+        href: projects/
+      - text: "Blog"
         href: posts/
       - text: "Dashboardy"
         href: dashboards.qmd
       - text: "O mnie"
         href: about.qmd
     right:
-
       - icon: github
         href: https://github.com/GZak76
       - icon: linkedin

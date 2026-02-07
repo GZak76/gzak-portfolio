@@ -1,12 +1,17 @@
 ---
-title: "Analizy"
+title: Blog
 listing:
-  contents: .      # bierz wszystkie wpisy z bieżącego folderu
+  contents: posts
   sort: "date desc"
-  type: default    # prosta lista (możesz zmienić na 'grid' / 'table')
   categories: true
+  page-size: 10
 ---
 
-# Analizy
+# Blog
 
-Poniżej lista opublikowanych wpisów.
+---
+title: "Analiza struktury sprzedaży – przykład"
+date: 2025-01-12
+categories: [R, analiza danych]
+description: "Krótka analiza struktury sprzedaży z wykorzystaniem ggplot2"
+---
