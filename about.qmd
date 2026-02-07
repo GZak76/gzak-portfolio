@@ -2,9 +2,50 @@
 title: "O mnie"
 ---
 
-# O mnie
+## Cześć 👋
 
-Cześć! Tu **GZak** – Data Analyst.  
-Na tej stronie publikuję analizy w **R** i osadzam dashboardy **Power BI**.
+Jestem **Grzegorz Żak** – analityk danych z doświadczeniem w analizie sprzedaży, rentowności oraz modelowaniu danych w Excelu, R i Power BI.
 
-- LinkedIn: [mój profil](https://www.linkedin.com/in/grzegorz-%C5%BCak-58176b3ab/)
+Szczególnie interesuję się:
+
+-   **prognozowaniem szeregów czasowych** (sprzedaż, popyt, trendy),
+
+-   **analizą danych demograficznych i społecznych**,
+
+-   **analizą wyników badań ankietowych** – od eksploracji danych po interpretację wyników.
+
+Lubię pracować z danymi, które opisują realne zjawiska i zachowania, a nie tylko abstrakcyjne liczby. Interesuje mnie zarówno **co się dzieje**, jak i **dlaczego** oraz **co może wydarzyć się dalej**.
+
+Na tej stronie publikuję:
+
+-   **projekty analityczne (case studies)**,
+
+-   **dashboardy i wizualizacje danych**,
+
+-   analizy i eksperymenty metodologiczne.
+
+## Hi 👋
+
+I’m **Grzegorz Żak**, a data analyst with experience in sales and profitability analysis,
+as well as data modeling in Excel, R, and Power BI.
+
+My main areas of interest include:
+
+- **time series forecasting** (sales, demand, and trends),
+
+- **demographic and social data analysis**,
+
+- **survey data analysis**, from exploratory analysis to proper interpretation of results.
+
+I enjoy working with data that describes real-world phenomena and human behavior,
+not just abstract numbers. I’m interested not only in **what is happening**, but also
+**why it is happening** and **what is likely to happen next**.
+
+On this website, I share:
+
+- **analytical projects (case studies)**,
+
+- **dashboards and data visualizations**,
+
+- short analyses and methodological experiments.
+

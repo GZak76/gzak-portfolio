@@ -25,7 +25,21 @@
     "href": "about.html",
     "title": "O mnie",
     "section": "",
-    "text": "O mnie\nCześć! Tu GZak – Data Analyst.\nNa tej stronie publikuję analizy w R i osadzam dashboardy Power BI.\n\nLinkedIn: mój profil"
+    "text": "Jestem Grzegorz Żak – analityk danych z doświadczeniem w analizie sprzedaży, rentowności oraz modelowaniu danych w Excelu, R i Power BI.\nSzczególnie interesuję się:\n\nprognozowaniem szeregów czasowych (sprzedaż, popyt, trendy),\nanalizą danych demograficznych i społecznych,\nanalizą wyników badań ankietowych – od eksploracji danych po interpretację wyników.\n\nLubię pracować z danymi, które opisują realne zjawiska i zachowania, a nie tylko abstrakcyjne liczby. Interesuje mnie zarówno co się dzieje, jak i dlaczego oraz co może wydarzyć się dalej.\nNa tej stronie publikuję:\n\nprojekty analityczne (case studies),\ndashboardy i wizualizacje danych,\nanalizy i eksperymenty metodologiczne."
+  },
+  {
+    "objectID": "about.html#cześć",
+    "href": "about.html#cześć",
+    "title": "O mnie",
+    "section": "",
+    "text": "Jestem Grzegorz Żak – analityk danych z doświadczeniem w analizie sprzedaży, rentowności oraz modelowaniu danych w Excelu, R i Power BI.\nSzczególnie interesuję się:\n\nprognozowaniem szeregów czasowych (sprzedaż, popyt, trendy),\nanalizą danych demograficznych i społecznych,\nanalizą wyników badań ankietowych – od eksploracji danych po interpretację wyników.\n\nLubię pracować z danymi, które opisują realne zjawiska i zachowania, a nie tylko abstrakcyjne liczby. Interesuje mnie zarówno co się dzieje, jak i dlaczego oraz co może wydarzyć się dalej.\nNa tej stronie publikuję:\n\nprojekty analityczne (case studies),\ndashboardy i wizualizacje danych,\nanalizy i eksperymenty metodologiczne."
+  },
+  {
+    "objectID": "about.html#hi",
+    "href": "about.html#hi",
+    "title": "O mnie",
+    "section": "Hi 👋",
+    "text": "Hi 👋\nI’m Grzegorz Żak, a data analyst with experience in sales and profitability analysis, as well as data modeling in Excel, R, and Power BI.\nMy main areas of interest include:\n\ntime series forecasting (sales, demand, and trends),\ndemographic and social data analysis,\nsurvey data analysis, from exploratory analysis to proper interpretation of results.\n\nI enjoy working with data that describes real-world phenomena and human behavior, not just abstract numbers. I’m interested not only in what is happening, but also why it is happening and what is likely to happen next.\nOn this website, I share:\n\nanalytical projects (case studies),\ndashboards and data visualizations,\nshort analyses and methodological experiments."
   },
   {
     "objectID": "dashboards.html",
