@@ -4,14 +4,28 @@
     "href": "projects/index.html",
     "title": "Projekty",
     "section": "",
-    "text": "Brak pasujących"
+    "text": "Analiza sprzedaży – case study\n\n\nAnaliza danych sprzedażowych z podziałem na rynki i produkty\n\n\n\n\n\n\n\n\n\n\nBrak pasujących"
   },
   {
-    "objectID": "posts/2026-02-07-test.html",
-    "href": "posts/2026-02-07-test.html",
-    "title": "Pierwsza analiza",
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "GZak – Data Analyst",
     "section": "",
-    "text": "Test Analizy\nTo jest wpis testowy. Jeśli go widzisz pod /posts/, to znaczy, że kolekcja działa."
+    "text": "title: Blog listing: contents: - “*.qmd” sort: “date desc”"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GZak – Data Analyst",
+    "section": "",
+    "text": "Witaj na mojej stronie\nTo jest moja strona zbudowana w Quarto."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "O mnie",
+    "section": "",
+    "text": "O mnie\nCześć! Tu GZak – Data Analyst.\nNa tej stronie publikuję analizy w R i osadzam dashboardy Power BI.\n\nLinkedIn: mój profil"
   },
   {
     "objectID": "dashboards.html",
@@ -28,24 +42,45 @@
     "text": "&lt;iframe title=“Przykładowy Power BI” width=“100%” height=“100%” src=“https://app.powerbi.com/view?r=TU_WKLEJ_PUBLICZNY_LINK_Z_PUBLISH_TO_WEB” frame"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "O mnie",
+    "objectID": "posts/2026-02-07-test.html",
+    "href": "posts/2026-02-07-test.html",
+    "title": "Pierwsza analiza",
     "section": "",
-    "text": "O mnie\nCześć! Tu GZak – Data Analyst.\nNa tej stronie publikuję analizy w R i osadzam dashboardy Power BI.\n\nLinkedIn: mój profil"
+    "text": "Test Analizy\nTo jest wpis testowy. Jeśli go widzisz pod /posts/, to znaczy, że kolekcja działa."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GZak – Data Analyst",
+    "objectID": "projects/analiza-sprzedazy.html",
+    "href": "projects/analiza-sprzedazy.html",
+    "title": "Analiza sprzedaży – case study",
     "section": "",
-    "text": "Witaj na mojej stronie\nTo jest moja strona zbudowana w Quarto."
+    "text": "Celem projektu była analiza struktury sprzedaży oraz identyfikacja najważniejszych segmentów klientów."
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Analiza struktury sprzedaży – przykład",
+    "objectID": "projects/analiza-sprzedazy.html#cel-projektu",
+    "href": "projects/analiza-sprzedazy.html#cel-projektu",
+    "title": "Analiza sprzedaży – case study",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\n\n\n\nBrak pasujących"
+    "text": "Celem projektu była analiza struktury sprzedaży oraz identyfikacja najważniejszych segmentów klientów."
+  },
+  {
+    "objectID": "projects/analiza-sprzedazy.html#dane",
+    "href": "projects/analiza-sprzedazy.html#dane",
+    "title": "Analiza sprzedaży – case study",
+    "section": "Dane",
+    "text": "Dane\nDane pochodziły z wewnętrznego systemu sprzedażowego."
+  },
+  {
+    "objectID": "projects/analiza-sprzedazy.html#metody",
+    "href": "projects/analiza-sprzedazy.html#metody",
+    "title": "Analiza sprzedaży – case study",
+    "section": "Metody",
+    "text": "Metody\n\nagregacja danych\nanaliza trendów\nwizualizacja w R / ggplot2"
+  },
+  {
+    "objectID": "projects/analiza-sprzedazy.html#wyniki",
+    "href": "projects/analiza-sprzedazy.html#wyniki",
+    "title": "Analiza sprzedaży – case study",
+    "section": "Wyniki",
+    "text": "Wyniki\nProjekt pozwolił zidentyfikować kluczowe źródła marży."
   }
 ]

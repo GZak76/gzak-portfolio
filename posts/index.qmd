@@ -1,17 +1,9 @@
 ---
+
 title: Blog
 listing:
-  contents: posts
+  contents:
+    - "*.qmd"
   sort: "date desc"
-  categories: true
-  page-size: 10
----
-
-# Blog
-
----
-title: "Analiza struktury sprzedaży – przykład"
-date: 2025-01-12
-categories: [R, analiza danych]
-description: "Krótka analiza struktury sprzedaży z wykorzystaniem ggplot2"
+  
 ---

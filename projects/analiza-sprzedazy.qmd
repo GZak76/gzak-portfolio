@@ -1,0 +1,23 @@
+---
+title: "Analiza sprzedaży – case study"
+description: "Analiza danych sprzedażowych z podziałem na rynki i produkty"
+---
+
+## Cel projektu
+
+Celem projektu była analiza struktury sprzedaży oraz identyfikacja
+najważniejszych segmentów klientów.
+
+## Dane
+
+Dane pochodziły z wewnętrznego systemu sprzedażowego.
+
+## Metody
+
+- agregacja danych
+- analiza trendów
+- wizualizacja w R / ggplot2
+
+## Wyniki
+
+Projekt pozwolił zidentyfikować kluczowe źródła marży.

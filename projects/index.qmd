@@ -1,8 +1,8 @@
 ---
 title: Projekty
 listing:
-  contents: projects
+  contents:
+    - "*.qmd"
   sort: title
-  fields: [title, description]
   type: grid
 ---
